@@ -15,18 +15,7 @@
 
 </div>
 
----
 
-## 🧑‍💻 About Me
-
-```javascript
-const me = {
-  role     : "Student & Frontend Developer",
-  learning : ["React.js", "Tailwind CSS", "JavaScript"],
-  motto    : "Build. Break. Learn. Repeat.",
-  goal     : "Grow into a full-stack developer 🎯"
-};
-```
 
 ---
 
